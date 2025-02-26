@@ -6,13 +6,15 @@
 Implementar um modelo de classificação para o conjunto de dados MNIST, que é composto por imagens de algarismos escritos a mão.
 
 ##  Entregas
-- [x] Classificador binário
+- [x] Classificação binária
 - [x] Cálculo de desempenho
 - [x] Validação cruzada
 - [x] Matriz de confusão
 - [x] Precisão e revocação
 - [x] Curva de roc SGD e Random Forest
-- [ ] Classificador Multiclasse
+- [x] Classificação Multiclasse
+- [ ] Classificação Multirótulo
+- [ ] Classificação Multioutput
 
 ## Pré-requisitos
 Antes de começar, certifique-se de ter o Python 3.10 (ou superior) instalado. Você pode verificar a versão instalada executando:
