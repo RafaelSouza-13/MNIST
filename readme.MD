@@ -3,7 +3,7 @@
 ## Capítulo 3
 
 ## Desafio
-Implementar um modelo de classificação para o conjunto de dados MNIST, que é composto por imagens de algarismos escritos a mão.
+Implementar um modelo de classificação para o conjunto de dados MNIST, que é composto por pequenas imagens de algarismos escritos a mão.
 
 ##  Entregas
 - [x] Classificação binária
