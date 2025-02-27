@@ -13,8 +13,8 @@ Implementar um modelo de classificação para o conjunto de dados MNIST, que é 
 - [x] Precisão e revocação
 - [x] Curva de roc SGD e Random Forest
 - [x] Classificação Multiclasse
-- [ ] Classificação Multirótulo
-- [ ] Classificação Multioutput
+- [x] Classificação Multirótulo
+- [x] Classificação Multioutput
 
 ## Pré-requisitos
 Antes de começar, certifique-se de ter o Python 3.10 (ou superior) instalado. Você pode verificar a versão instalada executando:
